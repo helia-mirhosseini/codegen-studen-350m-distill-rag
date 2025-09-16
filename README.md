@@ -36,7 +36,5 @@ In short:
 - **Production-ready FastAPI server**: expose `/generate` for inference.
 - **Reproducible repo structure**: ready for GitHub publishing.
 
----
 
-## 📁 Project Structure
 
