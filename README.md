@@ -1,4 +1,4 @@
-# codegen-studen-350m-distill-rag
+# codegen-student-350m-distill-rag
 
 This repository provides a **complete, reproducible workflow** for training, distilling, and serving a **small code-generation model (~350M parameters)** and integrating it with a **retrieval-augmented generation (RAG)** pipeline powered by **FAISS**.  
 
